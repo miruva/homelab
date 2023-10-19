@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T15:27:49.227Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.5" etag="wgYXM_cvQR0CysPdOkwm" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T15:28:04.509Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="9cQz9EU8c18w42Kq9olz" version="22.0.5" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1434" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="833" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="6a7d8f32e03d9370-58" value="Residential Private Networks" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="177" y="863" width="310" height="318" as="geometry" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-57" value="Enterprise Networks" style="whiteSpace=wrap;html=1;fillColor=#FFD470;gradientColor=none;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-57" value="Home" style="whiteSpace=wrap;html=1;fillColor=#FFD470;gradientColor=none;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="179" y="98" width="308" height="680" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-36" style="edgeStyle=none;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeWidth=2;" parent="1" source="6a7d8f32e03d9370-1" target="6a7d8f32e03d9370-14" edge="1">
